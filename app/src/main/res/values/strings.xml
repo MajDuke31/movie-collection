@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovieCollection</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_movie">AddMovie</string>
+    <string name="title_activity_view_movie">ViewMovie</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_year">Year</string>
+    <string name="hint_director">Director</string>
+    <string name="hint_motion_picture_rating">Motion Picture Rating</string>
+    <string name="hint_runtime">Runtime (minutes)</string>
+    <string name="button_text">Save Movie</string>
+    <string name="empty_text">No Movies Exist!</string>
+    <string name="stretch_columns">1</string>
+    <string name="title_field_text">Title:</string>
+    <string name="year_field_text">Year:</string>
+    <string name="director_field_text">Director:</string>
+    <string name="mp_rating_field_text">Motion Picture Rating:</string>
+    <string name="runtime_field_text">Runtime (minutes):</string>
+    <string name="menu_item_add_movie_title">Add Movie</string>
+    <string name="menu_item_add_movie_title_condensed">Add Movie</string>
+    <string name="menu_item_edit_movie_title">Edit Movie</string>
+    <string name="menu_item_edit_movie_title_condensed">Edit Movie</string>
+    <string name="menu_item_delete_movie_title">Delete Movie</string>
+    <string name="menu_item_delete_movie_title_condensed">Delete Movie</string>
+</resources>

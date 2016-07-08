@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MovieCollection">
+    <item android:id="@+id/addMovie" android:title="@string/menu_item_add_movie_title"
+        android:icon="@android:drawable/ic_menu_add"
+        android:titleCondensed="@string/menu_item_add_movie_title_condensed"
+        android:alphabeticShortcut="e"/>
+</menu>
